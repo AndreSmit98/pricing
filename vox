@@ -1,38 +1,69 @@
 VOX Packages:
 The following packages are from RSAWEB's competitor, VOX. These are the most up to date package details and prices.
-[
-  "Octotel, Speed is 55/25 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R679",
-  "Octotel, Speed is 100/100 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R900",
-  "Octotel, Speed is 150/150 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R1001",
-  "Octotel, Speed is 300/200 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R1171",
-  "Octotel, Speed is 500/200 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R1362",
-  "Octotel, Speed is 1000/200 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R1743",
-  "Frogfoot, Speed is 60/30 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R648",
-  "Frogfoot, Speed is 60/60 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R752",
-  "Frogfoot, Speed is 120/60 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R847",
-  "Frogfoot, Speed is 120/120 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R934",
-  "Frogfoot, Speed is 240/120 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R998",
-  "Frogfoot, Speed is 240/240 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R1162",
-  "Frogfoot, Speed is 400/200 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R1212",
-  "Frogfoot, Speed is 400/400 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R1304",
-  "Frogfoot, Speed is 1000/500 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R1575",
-  "Frogfoot, Speed is 1000/1000 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R1784",
-  "Openserve, Speed is 30/30 Mbps Telkom Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R495",
-  "Openserve, Speed is 50/25 Mbps Telkom Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R685",
-  "Openserve, Speed is 50/50 Mbps Openserve Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R749",
-  "Openserve, Speed is 100/50 Mbps Telkom Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R845",
-  "Openserve, Speed is 100/100 Mbps Openserve Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R946",
-  "Openserve, Speed is 200/100 Mbps Openserve Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R1095",
-  "Openserve, Speed is 200/200 Mbps Telkom Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R1145",
-  "Openserve, Speed is 300/150 Mbps Openserve Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R1246",
-  "Openserve, Speed is 500/250 Mbps Telkom Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R1445",
-  "Vuma, Speed is 30/30 Mbps Vumatel Fibre Line Month to Month Contract, Uncapped Fibre Data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R491",
-  "Vuma, Speed is 50/25 Vumatel fibre line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R685",
-  "Vuma, Speed is 50/50 Vumatel fibre line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R775",
-  "Vuma, Speed is 100/50 Vumatel fibre line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R895",
-  "Vuma, Speed is 100/100 Vumatel fibre line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R976",
-  "Vuma, Speed is 200/200 Vumatel fibre line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R1185",
-  "Vuma, Speed is 500/200 Mbps Vumatel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R1276",
-  "Vuma, Speed is 1000/250 Mbps Vumatel Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R1375",
-  "Vuma, Speed is 1000/500 Mbps Vumatel Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R2299"
-]
+- Octotel, Speed is 55/25 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R679
+
+- Octotel, Speed is 100/100 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R900
+
+- Octotel, Speed is 150/150 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R1001
+
+- Octotel, Speed is 300/200 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R1171
+
+- Octotel, Speed is 500/200 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R1362
+
+- Octotel, Speed is 1000/200 Mbps Octotel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Octotel and the price is R1743
+
+- Frogfoot, Speed is 60/30 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R648
+
+- Frogfoot, Speed is 60/60 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R752
+
+- Frogfoot, Speed is 120/60 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R847
+
+- Frogfoot, Speed is 120/120 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R934
+
+- Frogfoot, Speed is 240/120 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R998
+
+- Frogfoot, Speed is 240/240 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R1162
+
+- Frogfoot, Speed is 400/200 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R1212
+
+- Frogfoot, Speed is 400/400 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R1304
+
+- Frogfoot, Speed is 1000/500 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R1575
+
+- Frogfoot, Speed is 1000/1000 Mbps Frogfoot Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Frogfoot and the price is R1784
+
+- Openserve, Speed is 30/30 Mbps Telkom Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R495
+
+- Openserve, Speed is 50/25 Mbps Telkom Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R685
+
+- Openserve, Speed is 50/50 Mbps Openserve Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R749
+
+- Openserve, Speed is 100/50 Mbps Telkom Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R845
+
+- Openserve, Speed is 100/100 Mbps Openserve Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R946
+
+- Openserve, Speed is 200/100 Mbps Openserve Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R1095
+
+- Openserve, Speed is 200/200 Mbps Telkom Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R1145
+
+- Openserve, Speed is 300/150 Mbps Openserve Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R1246
+
+- Openserve, Speed is 500/250 Mbps Telkom Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Openserve and the price is R1445
+
+- Vuma, Speed is 30/30 Mbps Vumatel Fibre Line Month to Month Contract, Uncapped Fibre Data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R491
+
+- Vuma, Speed is 50/25 Vumatel fibre line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R685
+
+- Vuma, Speed is 50/50 Vumatel fibre line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R775
+
+- Vuma, Speed is 100/50 Vumatel fibre line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R895
+
+- Vuma, Speed is 100/100 Vumatel fibre line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R976
+
+- Vuma, Speed is 200/200 Vumatel fibre line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R1185
+
+- Vuma, Speed is 500/200 Mbps Vumatel Fibre Line Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R1276
+
+- Vuma, Speed is 1000/250 Mbps Vumatel Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R1375
+
+- Vuma, Speed is 1000/500 Mbps Vumatel Fibre line. Month to Month Contract, Uncapped Fat Pipe fibre data, Fibre router, FTTH setup subsidy recovery fee for services active for less than 12 months - Vumatel and the price is R2299
